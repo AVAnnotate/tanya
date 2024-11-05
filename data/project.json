@@ -1,13 +1,13 @@
 {
   "publish": {
-    "publish_pages_app": true,
+    "publish_pages_app": false,
     "publish_sha": "",
     "publish_iso_date": ""
   },
   "users": [],
   "project": {
     "github_org": "AVAnnotate",
-    "is_private": false,
+    "is_private": true,
     "title": "Tanya",
     "description": "Testing Tanya's spreadsheets",
     "language": "en",
@@ -72,6 +72,8 @@
       ]
     },
     "created_at": "2024-11-05T19:04:24.086Z",
-    "updated_at": "2024-11-05T19:04:24.086Z"
-  }
+    "updated_at": "2024-11-05T19:06:31.326Z",
+    "generate_pages_site": false
+  },
+  "is_private": true
 }
